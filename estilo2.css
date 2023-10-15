@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+:root{
+
+
+    --cor0:#86464b;
+    --cor1:#7077a3;
+    --cor2:#b94450;
+    --cor3:#353e6b;
+    --cor4:#562227;
+    --cor5:#525c72;
+    --cor6:#86464b;
+    --cor7:#21131b;
+    --cor8:#d5b9bd;
+
+--fonte-padrão:Arial,Verdana,Helvetica, sans-serif;
+    --fonte-destaque:  'Borel', 'cursive';
+    --fonte-android:'Android','cursive';
+}
+
+
+body{
+background-color: #7077a3;
+}
+
+main{
+margin: auto;
+
+background: #d5b9bd;
+padding: 10px;
+
+border-radius: 50px;
+
+text-align: justify;
+
+width: 600px;
+height: 600px;
+
+}
